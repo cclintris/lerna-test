@@ -1,5 +1,5 @@
 {
-  "name": "@my-demo/cli-shared-utils",
+  "name": "@cctris/lerna-test-cli-shared-utils",
   "version": "0.0.0",
   "description": "> TODO: description",
   "author": "cclintris <181250083@smail.nju.edu.cn>",
