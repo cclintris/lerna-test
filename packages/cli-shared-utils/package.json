@@ -1,0 +1,30 @@
+{
+  "name": "@my-demo/cli-shared-utils",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "cclintris <181250083@smail.nju.edu.cn>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/cli-shared-utils.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "semver": "^7.3.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cclintris/lerna-test.git"
+  }
+}
